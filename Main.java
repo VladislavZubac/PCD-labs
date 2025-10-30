@@ -108,7 +108,7 @@ public class Main {
             e.printStackTrace();
             // В случае прерывания выводим стек ошибки
         }
-
+//test
         String info = "Лабораторная работа 1 выполнена студентом: Влад Зубак, группа CR-233";
 
         for (char c : info.toCharArray()) {
