@@ -41,7 +41,7 @@ class SumProductEvenFromEnd extends Thread {
         System.out.println(getName() + " итоговая сумма произведений четных позиций: " + sum);
     }
 }
-
+//test
  public class Main {
     public static void main(String[] args) {
         int[] mas = new int[100];
